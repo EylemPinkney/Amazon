@@ -88,7 +88,7 @@ public class StepDefinitions {
     }
 
     @Then("Kullanici urunu sepete ekler")
-    public void kullanici_urunu_sepete_ekler() {
+    public void kullaniciUrunuSepeteEkler() {
 
         amazon.addToCard.click();
 
